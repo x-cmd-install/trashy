@@ -5,13 +5,13 @@ about:
   head: 7c48827
   archived: false
   latestVersion: "v2.0.0"
-  collectedAt: 2026-09-07T04:42:24Z
+  collectedAt: 2026-09-07T19:40:09Z
 timeline:
   created: 2020-09-04
   lastCommit: 2024-01-19
   lastRelease: 2022-09-30
 popularity:
-  star: 536
+  star: 535
   watcher: 3
   fork: 26
   release: 2
@@ -80,7 +80,7 @@ total:
   commit: 265
 ---
 path: /home/runner/.x-repo/github.com/oberblastmeister/trashy
-collectedAt: 2026-09-07T04:42:24Z
+collectedAt: 2026-09-07T19:40:10Z
 loc:
   Rust:
     code: 1018
@@ -111,7 +111,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:42:25+00:00
+  collectedAt: 2026-09-07T19:40:11+00:00
   platform:
     darwin/arm64:
       name:  null
