@@ -12,6 +12,17 @@ a cli system trash manager, alternative to rm and trash-cli
 x install trashy
 ```
 
+## Code insight
+
+Total: **1,089** lines of code across **23** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 1,018 | 2 | 162 | 18 |
+| Toml | 45 | 0 | 4 | 2 |
+| Nix | 26 | 0 | 2 | 1 |
+| Markdown | 0 | 115 | 71 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/oberblastmeister/trashy>
@@ -22,13 +33,6 @@ x install trashy
 - **Latest**: `v2.0.0` (2022-09-30)
 - **Last commit**: 2024-01-19
 - **Assets in release**: 2
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [trash-x86_64-pc-windows-msvc.exe](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-pc-windows-msvc.exe) | 2.7 MiB | `native/win/x64` |
-| [trash-x86_64-unknown-linux-gnu.tar.gz](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/x64/glibc` |
 
 ## Popularity
 
@@ -43,19 +47,26 @@ x install trashy
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 1 | 2 | 4 | 0 |
 
-## Code size
+## Release assets
 
-Total: **1,089** lines of code across **23** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [trash-x86_64-pc-windows-msvc.exe](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-pc-windows-msvc.exe) | 2.7 MiB | `native/win/x64` |
+| [trash-x86_64-unknown-linux-gnu.tar.gz](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/x64/glibc` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 1,018 | 2 | 162 | 18 |
-| Toml | 45 | 0 | 4 | 2 |
-| Nix | 26 | 0 | 2 | 1 |
-| Markdown | 0 | 115 | 71 | 2 |
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/trashy). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `2.0.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -66,4 +77,4 @@ Install metadata for trashy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:43:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:39:00Z._
