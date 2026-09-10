@@ -4,7 +4,7 @@
 
 a cli system trash manager, alternative to rm and trash-cli
 
-![trashy](https://repo.x-cmd.io/trashy.svg)
+![trashy](https://repo.x-cmd.io/trashy.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,13 @@ x install trashy
 - **最新版本**: `v2.0.0` (2022-09-30)
 - **最近提交**: 2024-01-19
 - **Release 含资产**: 2 个
-- **发布时间**: 2022-09-30T21:12:48Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [trash-x86_64-pc-windows-msvc.exe](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-pc-windows-msvc.exe) | 2.7 MiB | `native/win/x64` |
+| [trash-x86_64-unknown-linux-gnu.tar.gz](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/x64/glibc` |
 
 ## 流行度
 
@@ -60,4 +66,4 @@ trashy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:41:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:43:42Z._

@@ -22,7 +22,13 @@ x install trashy
 - **Latest**: `v2.0.0` (2022-09-30)
 - **Last commit**: 2024-01-19
 - **Assets in release**: 2
-- **Published**: 2022-09-30T21:12:48Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [trash-x86_64-pc-windows-msvc.exe](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-pc-windows-msvc.exe) | 2.7 MiB | `native/win/x64` |
+| [trash-x86_64-unknown-linux-gnu.tar.gz](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/x64/glibc` |
 
 ## Popularity
 
@@ -56,8 +62,8 @@ Total: **1,089** lines of code across **23** files in the top 5 languages.
 Install metadata for trashy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `trashy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/trashy.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/trashy.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:41:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:43:42Z._
