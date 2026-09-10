@@ -1,24 +1,63 @@
 # trashy
 
+[中文版本](./README.cn.md)
+
 a cli system trash manager, alternative to rm and trash-cli
 
-- **Upstream**: <https://github.com/oberblastmeister/trashy>
-- **Homepage**: <>
-- **Latest release**: `v2.0.0` (2022-09-30)
-- **Last commit**: 2024-01-19
-- **License**: Apache-2.0
-- **Stars**: 535 · **Forks**: 26 · **Open issues**: 47 · **Contributors**: 8
+![trashy](https://repo.x-cmd.io/trashy.svg)
 
-## Installation
+## Install
 
 ```sh
 x install trashy
 ```
 
-See <https://x-cmd.com/install/trashy> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/oberblastmeister/trashy>
+- **License**: Apache-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:58:41Z._
+- **Latest**: `v2.0.0` (2022-09-30)
+- **Last commit**: 2024-01-19
+- **Assets in release**: 2
+- **Published**: 2022-09-30T21:12:48Z
+
+## Popularity
+
+- **Stars**: 535 · **Forks**: 26 · **Open issues**: 47 · **Contributors**: 8
+
+## Totals (cumulative)
+
+- **Releases**: 2 · **Merged PRs**: 53 · **Open PRs**: 7 · **Closed issues**: 22 · **Open issues**: 25 · **Commits**: 265
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 1 | 1 | 0 | 0 |
+
+## Code size
+
+Total: **1,089** lines of code across **23** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 1,018 | 2 | 162 | 18 |
+| Toml | 45 | 0 | 4 | 2 |
+| Nix | 26 | 0 | 2 | 1 |
+| Markdown | 0 | 115 | 71 | 2 |
+
+## Improve this data
+
+Install metadata for trashy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `trashy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/trashy.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:41:43Z._
