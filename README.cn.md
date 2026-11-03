@@ -46,12 +46,12 @@ x install trashy
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-06 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-07 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last720d | 2024-11-12 | 0 | 0 | 1 | 2 | 0 | 0 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-07 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-11-08 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last720d | 2024-11-13 | 0 | 0 | 1 | 2 | 0 | 0 |
 
 ## Release 资产
 
@@ -59,6 +59,14 @@ x install trashy
 |------|-----:|----------|
 | [trash-x86_64-pc-windows-msvc.exe](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-pc-windows-msvc.exe) | 2.7 MiB | `native/win/x64` |
 | [trash-x86_64-unknown-linux-gnu.tar.gz](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/x64/glibc` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/trashy) 上共有 **11** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `2.0.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -69,4 +77,4 @@ trashy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T05:59:49Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T06:46:56Z._
