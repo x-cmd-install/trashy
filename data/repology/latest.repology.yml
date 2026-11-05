@@ -1,3 +1,22 @@
+- repo: scoop
+  subrepo: main
+  binname: trashy
+  visiblename: trashy
+  version: 2.0.0
+  origversion: null
+  status: outdated
+  licenses:
+    - Apache-2.0|MIT
+- repo: slackbuilds
+  srcname: system/trashy
+  visiblename: system/trashy
+  version: 2.5.1
+  origversion: null
+  status: newest
+  maintainers:
+    - klaatu@member.fsf.org
+  categories:
+    - system
 - repo: aur
   srcname: trashy
   binname: trashy
@@ -106,25 +125,3 @@
   summary: Simple, fast, and featureful alternative to rm and trash-cli
   maintainers:
     - littlebubu.shu@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: trashy
-  visiblename: trashy
-  version: 2.0.0
-  origversion: null
-  status: outdated
-  licenses:
-    - Apache-2.0|MIT
-- repo: slackbuilds
-  srcname: system/trashy
-  visiblename: system/trashy
-  version: 2.5.1
-  origversion: null
-  status: newest
-  maintainers:
-    - klaatu@member.fsf.org
-  categories:
-    - system
