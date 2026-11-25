@@ -46,12 +46,12 @@ Total: **1,089** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 1 | 1 | 1 | 0 |
-| last720d | 2024-12-04 | 0 | 0 | 1 | 2 | 1 | 0 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 1 | 1 | 1 | 0 |
+| last720d | 2024-12-05 | 0 | 0 | 1 | 2 | 1 | 0 |
 
 ## Release assets
 
@@ -59,14 +59,6 @@ Total: **1,089** lines of code across **23** files in the top 5 languages.
 |-------|-----:|--------|
 | [trash-x86_64-pc-windows-msvc.exe](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-pc-windows-msvc.exe) | 2.7 MiB | `native/win/x64` |
 | [trash-x86_64-unknown-linux-gnu.tar.gz](https://github.com/oberblastmeister/trashy/releases/download/v2.0.0/trash-x86_64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/x64/glibc` |
-
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/trashy). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `2.0.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -77,4 +69,4 @@ Install metadata for trashy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:08:10Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:32:44Z._
